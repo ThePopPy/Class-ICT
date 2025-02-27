@@ -1,0 +1,120 @@
+คำสั่งใดที่ใช้สำหรับเขียนข้อความลงในเอกสาร HTML โดยตรง
+A. console.log()
+B. document.write()
+C. alert()
+D. innerHTML
+ANSWER: B
+คำสั่งใดที่ใช้แสดงข้อความในกล่องแจ้งเตือน (Alert Box)
+A. prompt()
+B. console.log()
+C. alert()
+D. document.write()
+ANSWER: C
+ถ้าต้องการดีบักข้อมูลใน JavaScript ควรใช้คำสั่งใด
+A. document.write()
+B. console.log()
+C. alert()
+D. prompt()
+ANSWER: B
+คำสั่งใดใช้สำหรับเปลี่ยนข้อความใน <div>
+A. document.write()
+B. innerHTML
+C. alert()
+D. console.log()
+ANSWER: B
+การเขียนคอมเมนต์แบบหลายบรรทัดใน JavaScript ใช้รูปแบบใด
+A. // Comment
+B. /* Comment */
+C. <!-- Comment -->
+D. /* Comment
+ANSWER: B
+คำสั่งใดที่ใช้สร้างตัวแปรค่าคงที่
+A. var
+B. let
+C. const
+D. function
+ANSWER: C
+คำสั่งใดใช้สำหรับขอข้อมูลจากผู้ใช้ผ่านกล่องข้อความ
+A. prompt()
+B. alert()
+C. confirm()
+D. document.write()
+ANSWER: A
+DOM (Document Object Model) ใช้ทำอะไรในหน้าเว็บ
+A. แสดงผลข้อมูล
+B. ควบคุมและเปลี่ยน HTML, CSS, และเหตุการณ์
+C. เขียนคอมเมนต์ในโค้ด
+D. สร้างข้อความแจ้งเตือน
+ANSWER: B
+คำสั่งใดที่ใช้เพื่อเข้าถึงองค์ประกอบใน DOM โดย id
+A. document.querySelector()
+B. document.getElementById()
+C. document.getElementsByClassName()
+D. document.write()
+ANSWER: B
+เมธอด addEventListener() ใช้สำหรับทำอะไร
+A. เพิ่ม CSS ให้กับองค์ประกอบ
+B. ตั้งค่าเหตุการณ์ให้กับองค์ประกอบ
+C. ลบองค์ประกอบใน DOM
+D. เปลี่ยนข้อความใน <div>
+ANSWER: B
+การเปลี่ยน CSS ขององค์ประกอบ HTML ทำได้ด้วยคำสั่งใด
+A. element.setAttribute()
+B. element.style.property
+C. document.write()
+D. console.log()
+ANSWER: B
+ถ้าต้องการลบคลาสในองค์ประกอบ HTML ควรใช้คำสั่งใด
+A. element.classList.remove()
+B. element.classList.add()
+C. element.style.removeClass()
+D. document.removeClass()
+ANSWER: A
+คำสั่ง window.print() ใช้สำหรับทำอะไร
+A. แสดงผลในหน้าเว็บ
+B. เปิดหน้าต่างการพิมพ์
+C. แสดงข้อความในคอนโซล
+D. รับค่าจากผู้ใช้
+ANSWER: B
+ข้อใดคือวิธีการตั้งชื่อตัวแปรที่ถูกต้องใน JavaScript
+A. 1variable
+B. my-variable
+C. $variable
+D. var
+ANSWER: C
+เมธอด appendChild() ใช้สำหรับอะไร
+A. ลบองค์ประกอบลูก
+B. เพิ่มองค์ประกอบลูก
+C. เปลี่ยนสีข้อความ
+D. เพิ่มคลาส CSS
+ANSWER: B
+JavaScript Framework ใดใช้สำหรับ Front-End
+A. Node.js
+B. React.js
+C. Express.js
+D. Django
+ANSWER: B
+คำสั่งใดใช้สำหรับเปลี่ยนค่าแอตทริบิวต์ขององค์ประกอบ HTML
+A. element.setAttribute()
+B. element.innerHTML
+C. element.addEventListener()
+D. element.classList.add()
+ANSWER: A
+ถ้าต้องการตรวจสอบว่าองค์ประกอบมีคลาสอยู่หรือไม่ ใช้คำสั่งใด
+A. element.classList.add()
+B. element.classList.contains()
+C. element.style.contains()
+D. document.contains()
+ANSWER: B
+ตัวแปรที่ประกาศด้วย let มีขอบเขตการมองเห็นแบบใด
+A. Global
+B. Block
+C. Function
+D. None
+ANSWER: B
+ถ้าต้องการเปลี่ยนข้อความใน <h1> ที่มี id="title" ใช้คำสั่งใด
+A. document.write("New Title")
+B. document.getElementById("title").innerHTML = "New Title";
+C. console.log("New Title")
+D. alert("New Title")
+ANSWER: B

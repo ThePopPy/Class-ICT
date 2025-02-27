@@ -1,0 +1,139 @@
+HTML Form มีหน้าที่อะไรในเว็บไซต์
+A. สร้างรูปภาพ
+B. รวบรวมข้อมูลจากผู้ใช้
+C. เพิ่มสีสันให้เว็บไซต์
+D. ใช้แทน CSS
+ANSWER: B
+
+แท็ก <form> ใช้สำหรับอะไร
+A. เขียน JavaScript
+B. เก็บข้อความ
+C. รวบรวมข้อมูลและส่งไปยังเซิร์ฟเวอร์
+D. แสดงภาพ
+ANSWER: C
+
+ประเภทของ <input type="password"> ใช้สำหรับอะไร
+A. เก็บข้อความ
+B. รับตัวเลข
+C. รับรหัสผ่าน
+D. ค้นหาข้อมูล
+ANSWER: C
+
+คำสั่งใดที่ใช้เลือกองค์ประกอบใน JavaScript
+A. getElementById
+B. selectHTML
+C. createElement
+D. styleElement
+ANSWER: A
+
+คุณสมบัติของ <input type="checkbox"> คืออะไร
+A. รับข้อความ
+B. ตัวเลือกหลายตัวเลือก
+C. ตัวเลือกเดียว
+D. แสดงภาพ
+ANSWER: B
+
+หน่วยของ CSS px คืออะไร
+A. Pica
+B. Percentage
+C. Pixel
+D. Point
+ANSWER: C
+
+การใช้งาน JavaScript ในเว็บเพจสามารถทำได้กี่วิธี
+A. 1
+B. 2
+C. 3
+D. 4
+ANSWER: C
+
+คำสั่งใดที่ใช้สำหรับการวนลูปใน JavaScript
+A. if
+B. while
+C. switch
+D. case
+ANSWER: B
+
+const ใช้สำหรับการประกาศตัวแปรแบบใด
+A. เปลี่ยนค่าได้
+B. ค่าแบบคงที่
+C. ไม่สามารถใช้กับฟังก์ชันได้
+D. เก็บข้อมูลได้หลายชนิด
+ANSWER: B
+
+JavaScript ใช้ทำอะไรในเว็บไซต์
+A. เพิ่มความโต้ตอบ
+B. เปลี่ยนสีพื้นหลัง
+C. จัดเก็บไฟล์
+D. สร้างลิงก์
+ANSWER: A
+
+<textarea> ใช้ทำอะไร
+A. รับข้อความหลายบรรทัด
+B. แสดงภาพ
+C. ส่งไฟล์
+D. แสดงลิงก์
+ANSWER: A
+
+การเขียน JavaScript ในแท็ก <script> ถูกใช้งานแบบใด
+A. ในไฟล์ HTML โดยตรง
+B. ในไฟล์ CSS
+C. ในฐานข้อมูล
+D. ในแท็ก <head> เท่านั้น
+ANSWER: A
+
+JavaScript ช่วยจัดการ DOM ได้อย่างไร
+A. สร้างรูปภาพ
+B. แก้ไขโครงสร้าง HTML และ CSS
+C. สร้างไฟล์ JSON
+D. โหลดเซิร์ฟเวอร์
+ANSWER: B
+
+ข้อใดคือคำสั่งที่ไม่แนะนำใน JavaScript
+A. var
+B. let
+C. const
+D. getElementById
+ANSWER: A
+
+คุณสมบัติ type="email" ของ <input> คืออะไร
+A. รับข้อความธรรมดา
+B. รับข้อมูล URL
+C. รับที่อยู่อีเมล
+D. รับรหัสผ่าน
+ANSWER: C
+
+คำสั่งใดที่ใช้ในการเขียนข้อความลงใน Console
+A. console.write()
+B. console.log()
+C. console.alert()
+D. console.output()
+ANSWER: B
+
+ข้อใดคือการแทรก JavaScript ที่ไม่แนะนำ
+A. ในแท็ก <script>
+B. ในไฟล์ภายนอก
+C. ใน HTML Attribute
+D. ในไฟล์ .js
+ANSWER: C
+
+วิธีการเพิ่มฟอนต์จาก Google Fonts ใช้คำสั่งอะไร
+A. <script>
+B. @font
+C. @import
+D. <font>
+ANSWER: C
+
+ข้อใดคือตัวเลือกที่ใช้เลือกข้อมูลได้เพียงตัวเดียว
+A. <input type="checkbox">
+B. <input type="radio">
+C. <input type="file">
+D. <input type="text">
+ANSWER: B
+
+JavaScript ถูกสร้างครั้งแรกในปีใด
+A. 1990
+B. 1995
+C. 2000
+D. 2005
+ANSWER: B
