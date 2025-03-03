@@ -12,4 +12,4 @@ def form(request):
     return render(request, 'form.html')
 
 def contact(request):
-    return HttpResponse("<h1>ติดต่อ ผู้สอน</H1>") 
+    return HttpResponse("<h1>ติดต่อ ผู้สอน</h1>") 
